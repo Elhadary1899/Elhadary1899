@@ -14,19 +14,20 @@
 ## <h3 align="left">🤝   Connect with me :</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-elhadary/" target="_blank" style="outline: none; text-decoration: none;">
+  <a href="https://www.linkedin.com/in/ahmed-elhadary/" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
     <img width="12" />
   </a>
-  <a href="mailto:designbyhadary@gmail.com" target="_blank" style="outline: none; text-decoration: none;">
+  <a href="mailto:designbyhadary@gmail.com" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
     <img width="12" />
   </a>
-  <a href="https://github.com/Elhadary1899" target="_blank" style="outline: none; text-decoration: none;">
+  <a href="https://github.com/Elhadary1899" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
     <img width="12" />
   </a>
 </div>
+
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
