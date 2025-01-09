@@ -12,15 +12,15 @@
 <p align="left">📍 Based in Alexandria, Egypt.<br>🎓 Student at the Faculty of Computers and Data Sciecne, Alexandria University.<br>🧮 Competitive programmer with 250+ problems Solved on Codeforces & LeetCode.<br>💼 Vice President @HackerRank, FCDS.<br> 🚀 Ex-Intern @CognoRise Info Tech.<br>☕ I love coding in Java.<br>👨‍💻 I was an IT member @HackerRank, FCDS.<br>🖥️ Currently pursuing CS fundamentals as DSA , DB, OS, and Networking.<br>🖥️ Click here to see [My Resume](https://drive.google.com/file/d/18dUtnmn5tP5PuNwHcV2dJI0y4Z4tO7Qr/view?usp=drive_link).</p>
 
  <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-elhadary/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-elhadary/" target="_blank" style="outline:none;text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
     <img width="12" />
   </a>
-  <a href="mailto:designbyhadary@gmail.com" target="_blank">
+  <a href="mailto:designbyhadary@gmail.com" target="_blank" style="outline:none;text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
   <img width="12" />
   </a>
-  <a href="https://github.com/Elhadary1899" target="_blank">
+  <a href="https://github.com/Elhadary1899" target="_blank" style="outline:none;text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   </a>
