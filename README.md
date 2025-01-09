@@ -121,6 +121,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Elhadary1899/Elhadary1899/output/snake.svg" alt="Snake animation" />
-
+<p align = "center">
+	<img src = "https://raw.githubusercontent.com/Elhadary1899/Elhadary1899/output/snake.svg" alt = "Snake Game"/>
+</p>
 ###
