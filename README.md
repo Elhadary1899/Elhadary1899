@@ -105,23 +105,3 @@
 
 <br> 
 
-
-
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://githubreadmestats.vercel.app/apiusername=Elhadary1899&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elhadary1899&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p align = "center">
-	<img src = "https://raw.githubusercontent.com/Elhadary1899/Elhadary1899/output/snake.svg" alt = "Snake Game"/>
-</p>
-###
