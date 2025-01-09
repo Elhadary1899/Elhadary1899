@@ -14,20 +14,30 @@
  <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-elhadary/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+    <img width="12" />
   </a>
   <a href="mailto:designbyhadary@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+  <img width="12" />
   </a>
   <a href="https://github.com/Elhadary1899" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
   </a>
 </div>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="[https://codeforces.com/profile/7oSkaaa](https://codeforces.com/profile/Elhaddour1899)"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="[https://leetcode.com/7oSkaa/](https://leetcode.com/u/Elhadary1899/)"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="[https://codeforces.com/profile/7oSkaaa](https://codeforces.com/profile/Elhaddour1899)">
+	  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/>
+  <img width="12" />
+  </a>
+	<a href="[https://leetcode.com/7oSkaa/](https://leetcode.com/u/Elhadary1899/)">
+		<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
+	
+  <img width="12" />
+  </a>
 </p>
 
 
