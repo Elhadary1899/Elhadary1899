@@ -9,7 +9,7 @@
 <br><br>
 
 
-<p align="left">📍 Based in Alexandria, Egypt.<br>🎓 Student at the Faculty of Computers and Data Sciecne, Alexandria University.<br>🧮 Competitive programmer with 250+ problems Solved on Codeforces & LeetCode.<br>💼 Vice President @HackerRank, FCDS.<br> 🚀 Ex-Intern @CognoRise Info Tech.<br>☕ I love coding in Java.<br>👨‍💻 I was an IT member @HackerRank, FCDS.<br>🖥️ Currently pursuing CS fundamentals as DSA , DB, OS, and Networking.<br>📃 Click here to see <a href="https://drive.google.com/file/d/18dUtnmn5tP5PuNwHcV2dJI0y4Z4tO7Qr/view?usp=drive_link" target="_blank" style="text-decoration: none; outline: none;">My Resume</a>.</p>
+<p align="left">📍 Based in Alexandria, Egypt.<br>🎓 Student at the Faculty of Computers and Data Sciecne, Alexandria University.<br>🧮 Competitive programmer with 250+ problems Solved on Codeforces & LeetCode.<br>💼 Vice President @HackerRank, FCDS.<br> 🚀 Ex-Intern @CognoRise Info Tech.<br>☕ I love coding in Java.<br>👨‍💻 I am the Vice Prisedent @HackerRank, FCDS.<br>🖥️ Currently pursuing CS fundamentals as DSA , DB, OS, and Networking.<br>📃 Click here to see <a href="https://drive.google.com/file/d/138DFYE1s_Sd93Mm1hT6D3jgD8gb94QQM/view" target="_blank" style="text-decoration: none; outline: none;">My Resume</a>.</p>
 
 ## <h3 align="left">🤝   Connect with me :</h3>
 
@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
     <img width="12" />
   </a>
-  <a href="mailto:designbyhadary@gmail.com" target="_blank" style="text-decoration: none; outline: none;">
+  <a href="mailto:ahmedelhadary.cs@gmail.com" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
     <img width="12" />
   </a>
