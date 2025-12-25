@@ -3,7 +3,7 @@ Hi, I'm Ahmed Elhadary 👋
 </h1>
 
 <p align="center">
-Backend Engineer • Java & Node.js • Database Design • Competitive Programmer
+Backend Engineer • Java & Node.js • Database Internals • Competitive Programmer
 </p>
 
 ---
@@ -14,7 +14,7 @@ I’m a Computer Science student at the **Faculty of Computers and Data Science,
 
 I have hands-on experience designing and implementing backend services using **Java and Node.js**, with solid knowledge of **relational databases (MySQL, PostgreSQL, SQL Server)**, **RESTful APIs**, and **object-oriented design**. I enjoy working close to the system level, where performance, correctness, and clean architecture matter.
 
-Beyond development, I serve as **Vice President of the HackerRank Campus Club (FCDS)**, where I help organize technical sessions, coding events, and support members in improving their problem-solving and core computer science skills. I’m also an **ECPC participant**, with a strong interest in competitive programming.
+Beyond development, I've served as the **Vice President of the HackerRank Campus Club (FCDS)**, where I've helped organize technical sessions, coding events, and support members in improving their problem-solving and core computer science skills. I’m also an **ECPC participant**, with a strong interest in competitive programming.
 
 📄 **Resume:** [View PDF](https://drive.google.com/file/d/1LJe4L2JZks4WGLr1avtEphjOjdKK9lFA/view)
 
