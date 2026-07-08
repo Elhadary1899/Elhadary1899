@@ -1,22 +1,96 @@
 <h1 align="center">
-Hi, I'm Ahmed Elhadary 👋
+  Hi, I'm Ahmed Elhadary 👋
 </h1>
 
 <p align="center">
-Backend Engineer • Java & Node.js • Database Internals • Competitive Programmer
+  Software Engineering Intern @ Deloitte Innovation Hub • Backend Engineer • Systems Enthusiast
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a Computer Science student at the **Faculty of Computers and Data Science, Alexandria University**, with a strong focus on **backend engineering, database internals, and building real-world systems**.
+I'm a Computer Science student at **Alexandria University** and currently a **Software Engineering Intern at Deloitte Innovation Hub**.
 
-I have hands-on experience designing and implementing backend services using **Java and Node.js**, with solid knowledge of **relational databases (MySQL, PostgreSQL, SQL Server)**, **RESTful APIs**, and **object-oriented design**. I enjoy working close to the system level, where performance, correctness, and clean architecture matter.
+I'm passionate about **backend engineering**, **systems programming**, and understanding how software works beneath the abstractions. Instead of only using existing tools and frameworks, I enjoy building them from scratch to understand the engineering behind them.
 
-Beyond development, I've served as the **Vice President of the HackerRank Campus Club (FCDS)**, where I've helped organize technical sessions, coding events, and support members in improving their problem-solving and core computer science skills. I’m also an **ECPC participant**, with a strong interest in competitive programming.
+Recently, I built **ForgeHTTP**, a lightweight micro backend framework on top of a custom HTTP server, and I'm continuously exploring topics like **database internals**, **distributed systems**, **computer networks**, **operating systems**, and **compiler design**.
 
-📄 **Resume:** [View PDF](https://drive.google.com/file/d/1LJe4L2JZks4WGLr1avtEphjOjdKK9lFA/view)
+Outside of building software, I enjoy teaching, mentoring students, solving algorithmic problems, and contributing to technical communities.
+
+---
+
+## 🚀 What I'm Currently Exploring
+
+* Backend Engineering
+* Distributed Systems
+* Database Internals
+* Systems Programming
+* Software Architecture
+* Computer Networks
+* Operating Systems
+* Compiler Design
+* Open Source
+
+---
+
+## 💼 Experience
+
+* 💼 Software Engineering Intern @ Deloitte Innovation Hub
+* 👨‍🏫 Software Instructor @ Innova STEM
+* 🌍 Former Full Stack Engineer @ Izer Software House
+* 🎓 Former OOP Instructor @ HackerRank Campus Club
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,sql" />
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" />
+</p>
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,firebase" />
+</p>
+
+---
+
+## 🧠 Computer Science
+
+I'm particularly interested in:
+
+* Backend Engineering
+* Data Structures & Algorithms
+* Database Internals
+* Operating Systems
+* Computer Networks
+* Distributed Systems
+* Compiler Design
+* System Design
+
+---
+
+## 🏅 Activities
+
+* 🥇 ECPC Participant
+* 👨‍🏫 Former Vice President of HackerRank Campus Club (FCDS)
+* 💡 Passionate about teaching programming and mentoring students
 
 ---
 
@@ -24,50 +98,16 @@ Beyond development, I've served as the **Vice President of the HackerRank Campus
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-elhadary/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:ahmedelhadary.cs@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <a href="https://github.com/Elhadary1899">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-</p>
-
----
-
-## 🏗️ Technical Skills
-
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,sql" />
-</p>
-
-### Backend & Web Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css" />
-</p>
-
-### Databases & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,firebase" />
-</p>
-
----
-
-## 🧠 Competitive Programming
-
-I actively practice competitive programming and problem solving, with participation in contests such as **ECPC**.
-
-<p align="center">
-  <a href="https://codeforces.com/profile/Elhaddour1899">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/>
-  </a>
-  <a href="https://leetcode.com/u/Elhadary1899/">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
+  <a href="https://github.com/httpHadary">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
 ---
 
-⭐ **Interested in backend engineering, systems programming, and open-source contributions.**
+> *Building software from first principles. Interested in backend engineering, distributed systems, databases, and everything that happens under the hood.*
