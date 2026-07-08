@@ -18,19 +18,6 @@ Recently, I built **ForgeHTTP**, a lightweight micro backend framework on top of
 
 Outside of building software, I enjoy teaching, mentoring students, solving algorithmic problems, and contributing to technical communities.
 
----
-
-## 🚀 What I'm Currently Exploring
-
-* Backend Engineering
-* Distributed Systems
-* Database Internals
-* Systems Programming
-* Software Architecture
-* Computer Networks
-* Operating Systems
-* Compiler Design
-* Open Source
 
 ---
 
@@ -71,7 +58,7 @@ Outside of building software, I enjoy teaching, mentoring students, solving algo
 
 ---
 
-## 🧠 Computer Science
+## 🧠 What I'm Currently Exploring
 
 I'm particularly interested in:
 
@@ -81,8 +68,10 @@ I'm particularly interested in:
 * Operating Systems
 * Computer Networks
 * Distributed Systems
+* Systems Programming
 * Compiler Design
 * System Design
+* Open Source
 
 ---
 
