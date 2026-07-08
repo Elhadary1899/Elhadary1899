@@ -66,7 +66,7 @@ Outside of building software, I enjoy teaching, mentoring students, solving algo
 ### Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,maven,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,maven,firebase" />
 </p>
 
 ---
