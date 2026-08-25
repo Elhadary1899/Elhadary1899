@@ -13,31 +13,25 @@
 I'm a Computer Science student at Alexandria University with a passion for backend engineering, systems programming, and database internals.
 
 </br>
-</br>
 
 I've built backend and full-stack applications using Java/Spring Boot, Python, Node.js/Express.js, and .NET, and worked with relational and vector databases including PostgreSQL, MySQL, SQL Server, and ChromaDB.
 
-</br>
 </br>
 
 I enjoy building software from the ground up to understand how it works beneath the abstraction layer, whether by building ForgeHTTP, a lightweight backend framework in Java on top of a custom HTTP server, designing RESTful APIs, or exploring database internals.
 
 </br>
-</br>
 
 At Deloitte Innovation Hub, I expanded this experience into enterprise AI, contributing to an AI-powered RAG chatbot using document processing, embeddings, vector search, LLMs, Docker, and Google Cloud.
 
-</br>
 </br>
 
 I care about clean architecture, performance, reliability, and maintainability, and I'm constantly expanding my understanding of operating systems, networking, compilers, databases, and distributed systems.
 
 </br>
-</br>
 
 Beyond development, I've served as Vice President of the HackerRank Campus Club (FCDS), taught Java and programming fundamentals, and participated in ECPC, experiences that strengthened both my technical and communication skills.
 
-</br>
 </br>
 
 I'm always looking for opportunities to build impactful systems, contribute to open source, and grow as a software engineer. My goal is to become an engineer who doesn't just use technology, but understands how to build it.
@@ -67,15 +61,12 @@ I'm always looking for opportunities to build impactful systems, contribute to o
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" />
 </p>
 
-### AI & Data
+### Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
-<p align="center">
-RAG • LLMs • Embeddings • Vector Search • ChromaDB
-</p>
 
 ### Cloud & Tools
 
@@ -98,7 +89,6 @@ I'm particularly interested in:
 * Systems Programming
 * Compiler Design
 * System Design
-* AI Engineering & RAG
 * Open Source
 
 ---
