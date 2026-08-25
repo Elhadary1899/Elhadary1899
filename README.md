@@ -10,31 +10,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at Alexandria University with a passion for backend engineering, systems programming, and database internals.
+I'm a Computer Science student at Alexandria University passionate about **backend engineering, systems programming, and database internals**.
 
-</br>
+I enjoy building software from the ground up to understand what happens beneath the abstraction layer. I've built systems using **Java/Spring Boot, Python, Node.js/Express.js, and .NET**, including **ForgeHTTP**, a lightweight Java backend framework built on a custom HTTP server.
 
-I've built backend and full-stack applications using Java/Spring Boot, Python, Node.js/Express.js, and .NET, and worked with relational and vector databases including PostgreSQL, MySQL, SQL Server, and ChromaDB.
+At **Deloitte Innovation Hub**, I expanded into enterprise AI, contributing to an **RAG-powered internal FAQ chatbot** using document processing, embeddings, vector search, LLMs, Docker, and Google Cloud.
 
-</br>
-
-I enjoy building software from the ground up to understand how it works beneath the abstraction layer, whether by building ForgeHTTP, a lightweight backend framework in Java on top of a custom HTTP server, designing RESTful APIs, or exploring database internals.
-
-</br>
-
-At Deloitte Innovation Hub, I expanded this experience into enterprise AI, contributing to an AI-powered RAG chatbot using document processing, embeddings, vector search, LLMs, Docker, and Google Cloud.
-
-</br>
-
-I care about clean architecture, performance, reliability, and maintainability, and I'm constantly expanding my understanding of operating systems, networking, compilers, databases, and distributed systems.
-
-</br>
-
-Beyond development, I've served as Vice President of the HackerRank Campus Club (FCDS), taught Java and programming fundamentals, and participated in ECPC, experiences that strengthened both my technical and communication skills.
-
-</br>
-
-I'm always looking for opportunities to build impactful systems, contribute to open source, and grow as a software engineer. My goal is to become an engineer who doesn't just use technology, but understands how to build it.
+Currently exploring **operating systems, networking, databases, distributed systems, and compiler design**.
 
 ---
 
