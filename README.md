@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Software Engineering Intern @ Deloitte Innovation Hub • Backend Engineer • Systems Enthusiast
+  Software Engineer • Backend Engineer • Systems Enthusiast
 </p>
 
 ---
@@ -18,7 +18,7 @@ I'm a Computer Science student at Alexandria University with a passion for backe
 I've built backend and full-stack applications using Java/Spring Boot, Python, Node.js/Express.js, and .NET, and worked with relational and vector databases including PostgreSQL, MySQL, SQL Server, and ChromaDB.
 
 </br>
-</br> 
+</br>
 
 I enjoy building software from the ground up to understand how it works beneath the abstraction layer, whether by building ForgeHTTP, a lightweight backend framework in Java on top of a custom HTTP server, designing RESTful APIs, or exploring database internals.
 
@@ -42,7 +42,6 @@ Beyond development, I've served as Vice President of the HackerRank Campus Club 
 
 I'm always looking for opportunities to build impactful systems, contribute to open source, and grow as a software engineer. My goal is to become an engineer who doesn't just use technology, but understands how to build it.
 
-
 ---
 
 ## 💼 Experience
@@ -59,7 +58,7 @@ I'm always looking for opportunities to build impactful systems, contribute to o
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,sql" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,sql" />
 </p>
 
 ### Backend
@@ -68,16 +67,20 @@ I'm always looking for opportunities to build impactful systems, contribute to o
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" />
 </p>
 
-### Databases
+### AI & Data
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
-### Tools & Technologies
+<p align="center">
+RAG • LLMs • Embeddings • Vector Search • ChromaDB
+</p>
+
+### Cloud & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,maven,firebase" />
+<img src="https://skillicons.dev/icons?i=docker,gcp,git,github,maven,firebase" />
 </p>
 
 ---
@@ -95,7 +98,24 @@ I'm particularly interested in:
 * Systems Programming
 * Compiler Design
 * System Design
+* AI Engineering & RAG
 * Open Source
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 ForgeHTTP
+
+A lightweight backend framework built from scratch in Java on top of a custom HTTP server.
+
+Exploring HTTP request/response handling, routing, middleware, authentication, CORS, static files, JSON serialization, and concurrent request processing using Virtual Threads.
+
+### 🤖 AI-Powered FAQ Chatbot
+
+An enterprise RAG-based chatbot built during my time at Deloitte Innovation Hub to help employees quickly access internal knowledge and reduce repetitive questions handled by HR and onboarding teams.
+
+Built with React/TypeScript, Spring Boot, Python, ChromaDB, PostgreSQL, Docker, and Google Cloud.
 
 ---
 
