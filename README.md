@@ -10,13 +10,37 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at **Alexandria University** and currently a **Software Engineering Intern at Deloitte Innovation Hub**.
+I'm a Computer Science student at Alexandria University with a passion for backend engineering, systems programming, and database internals.
 
-I'm passionate about **backend engineering**, **systems programming**, and understanding how software works beneath the abstractions. Instead of only using existing tools and frameworks, I enjoy building them from scratch to understand the engineering behind them.
+</br>
+</br>
 
-Recently, I built **ForgeHTTP**, a lightweight micro backend framework on top of a custom HTTP server, and I'm continuously exploring topics like **database internals**, **distributed systems**, **computer networks**, **operating systems**, and **compiler design**.
+I've built backend and full-stack applications using Java/Spring Boot, Python, Node.js/Express.js, and .NET, and worked with relational and vector databases including PostgreSQL, MySQL, SQL Server, and ChromaDB.
 
-Outside of building software, I enjoy teaching, mentoring students, solving algorithmic problems, and contributing to technical communities.
+</br>
+</br> 
+
+I enjoy building software from the ground up to understand how it works beneath the abstraction layer, whether by building ForgeHTTP, a lightweight backend framework in Java on top of a custom HTTP server, designing RESTful APIs, or exploring database internals.
+
+</br>
+</br>
+
+At Deloitte Innovation Hub, I expanded this experience into enterprise AI, contributing to an AI-powered RAG chatbot using document processing, embeddings, vector search, LLMs, Docker, and Google Cloud.
+
+</br>
+</br>
+
+I care about clean architecture, performance, reliability, and maintainability, and I'm constantly expanding my understanding of operating systems, networking, compilers, databases, and distributed systems.
+
+</br>
+</br>
+
+Beyond development, I've served as Vice President of the HackerRank Campus Club (FCDS), taught Java and programming fundamentals, and participated in ECPC, experiences that strengthened both my technical and communication skills.
+
+</br>
+</br>
+
+I'm always looking for opportunities to build impactful systems, contribute to open source, and grow as a software engineer. My goal is to become an engineer who doesn't just use technology, but understands how to build it.
 
 
 ---
